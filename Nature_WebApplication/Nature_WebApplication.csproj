@@ -8,6 +8,7 @@
 
   <ItemGroup>
     <Folder Include="wwwroot\Extenal_CSS\" />
+    <Folder Include="wwwroot\Admin_CSS\" />
   </ItemGroup>
 
 </Project>
